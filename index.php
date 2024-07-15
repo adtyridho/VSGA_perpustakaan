@@ -219,7 +219,7 @@
         </form>
     </div>
     <!-- !Contact -->
-    <div class="container text-center pt-5 pb-5 ">All Right Reserved RMZ &copy; 2023</div>
+    <div class="container text-center pt-5 pb-5 ">All Right  aditya &copy; 2024</div>
     <!-- SpreadSheet -->
     <script>
         const scriptURL = 'https://script.google.com/macros/s/AKfycbztSbRv6xypfSBKyWvjoOMUQl2rZH1ktkLFaFs6nXx_G9vcVKyQ4W5ujbpjjHTwUUuMpA/exec'
