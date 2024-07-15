@@ -63,34 +63,6 @@
 
     <!-- !Banner -->
 
-    <!-- Layanan -->
-    <div class="container-fluid layanan pt-5 pb-5 ">
-        <div class="container text-center ">
-            <h2 class="display-3 " id="layanan">Layanan</h2>
-            <p>Di Perpustakaan Mutiara Ilmu, tersedia layanan layanan yang membantu kenyamanan para pengunjung, seperti :</p>
-            <div class="row pt-4 ">
-                <div class="col-md-4 ">
-                    <span class="lingkaran "><i class="fa-solid fa-book fa-5x "></i></span>
-
-                    <h3 class="mt-3 ">Library</h3>
-                    <p>Terdapat banyak buku lengkap untuk jurusan maupun diluar kejuruan</p>
-                </div>
-                <div class="col-md-4 ">
-                    <span class="lingkaran "><i class="fa-solid fa-desktop fa-5x "></i></span>
-
-                    <h3 class="mt-3 ">PC</h3>
-                    <p>Tersedia PC untuk keperluan para pengunjung untuk berselancar di internet</p>
-                </div>
-                <div class="col-md-4 ">
-                    <span class="lingkaran "><i class="fa-solid fa-wifi fa-5x "></i></span>
-
-                    <h3 class="mt-3 ">WIFI</h3>
-                    <p>Ada lebih dari 4 jaringan WIFI gratis untuk para pengunjung perpustakaan</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- !Layanan -->
 
     <!-- Fasilitas -->
     <div class="container-fluid pt-5 pb-5 bg-light ">
